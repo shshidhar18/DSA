@@ -5,13 +5,9 @@ Given an integer n. You need to recreate the pattern given below for any value o
 
 
 *
-
 **
-
 ***
-
 ****
-
 *****
 
 
